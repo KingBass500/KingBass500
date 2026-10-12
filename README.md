@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a software engineer and IT Support specialist working with full-stack and desktop applications. Specializing in Python, Java, C++, database management, and building clean, efficient software solutions[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
+I'm a software engineer and IT Support specialist working with full-stack and desktop applications. Specializing in Python, Java, C++, database management, and building clean, efficient software solutions
 
 ---
 
